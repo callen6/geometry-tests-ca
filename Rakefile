@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "geometry-tests-ca"
   gem.homepage = "http://github.com/callen6/geometry-tests-ca"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Methods for triangles, rectangles, circles.}
+  gem.description = %Q{Not yet working: a gem that adds methods for triangles, rectangles, circles.}
   gem.email = "coriallen@gmail.com"
   gem.authors = ["Cori Allen"]
   # dependencies defined in Gemfile
